@@ -7,12 +7,12 @@ Vous êtes invité à implémenter le programme décrit dans la spécification q
 se trouve à `docs/spec.rst`.
 
 Un programme qui conforme à la spécification est déjà vous proposé. Il se
-trouve à `dist/projapp/projapp`. Pour le lancer:
+trouve à `projapp.zip`. Pour le lancer, dezippez le, puis:
 
 - Ouvrez un terminal
 - Se dirigez au dépôt.
 - A partir de niveau où se trouve ce fichier `README.md`, écrivez le code
-  suivant: `./dist/projapp/projapp`
+  suivant: `./projapp/projapp`
 
 Sous le dossier `assets` il se trouve un fichier des étiquettes exemplaire,
 pour vous faciliter les testes. Le dossier contient aussi deux images pour le
