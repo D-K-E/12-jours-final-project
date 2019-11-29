@@ -14,7 +14,7 @@ trouve à `projapp.zip`. Pour le lancer, dezippez le, puis:
 - A partir de niveau où se trouve ce fichier `README.md`, écrivez le code
   suivant: `./projapp/projapp`
 
-Sous le dossier `assets` il se trouve un fichier des étiquettes exemplaire,
+Sous le dossier `assets` il se trouve un fichier des étiquettes exemplaires,
 pour vous faciliter les testes. Le dossier contient aussi deux images pour le
 même but.
 
