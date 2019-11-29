@@ -1,0 +1,19 @@
+{
+  "proprietes": [
+    {
+      "label": "foot",
+      "bbox": {
+        "topLeft": {
+          "x": 1674,
+          "y": 424
+        },
+        "bottomRight": {
+          "x": 2384,
+          "y": 1077
+        }
+      },
+      "index": 0
+    }
+  ],
+  "chemin_image": "/media/kaan/Data7510/GitProjects/12-jours-final-project/assets/im01.jpg"
+}
